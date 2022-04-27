@@ -1,0 +1,6 @@
+﻿  Func.cpp
+C:\Users\romty\source\repos\Laba2.4\Func.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\romty\source\repos\Laba2.4\Func.cpp(9,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\romty\source\repos\Laba2.4\Func.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\romty\source\repos\Laba2.4\Func.cpp(50,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Laba2.4.vcxproj -> C:\Users\romty\source\repos\Laba2.4\Debug\Laba2.4.exe
